@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication2", "PythonApplication2\PythonApplication2.pyproj", "{A61F516F-33AA-40C1-8F7D-657354E89628}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LinkableRingSignature", "PythonApplication2\LinkableRingSignature.pyproj", "{A61F516F-33AA-40C1-8F7D-657354E89628}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
